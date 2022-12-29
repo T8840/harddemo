@@ -11,6 +11,10 @@ nvm use 18
 nvm alias default 18
 npm install npm --global # Upgrade npm to the latest version
 ```
+
+### 依赖库安装
+- npm i -D
+
 ### 编写合约
 
 ### 编译
