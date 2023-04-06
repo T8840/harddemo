@@ -39,3 +39,15 @@ ERC20代币合约：
 4. 定期分配：合约可以设置一个定期分配信用的机制，例如每周或每月为用户分配一定数量的信用。这样可以确保用户持续地参与投票和治理。
 5. 信用挖矿：合约可以设置一个信用挖矿机制，允许用户通过质押加密货币或其他资产来获取信用。
 信用的获取方式取决于具体的合约设计和项目需求。项目方可以根据实际情况选择合适的信用分配机制来激励用户参与投票。
+
+
+
+# 更多类型
+
+## allo-protocol
+
+- https://docs.allo.gitcoin.co/core-concepts/voting-strategy
+- https://github.com/allo-protocol/contracts/tree/main/contracts/votingStrategy
+
+
+## 
